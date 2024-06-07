@@ -1,0 +1,8 @@
+table {
+    background: burlywood;
+    border: 2px solid blue;
+    width: 100%;
+}
+td{
+    border: 2px solid blue;
+}
